@@ -1,0 +1,56 @@
+body{text-align: center;
+
+}
+
+#main{
+  width: 540px;
+  margin: auto;
+}
+
+
+
+h1  {font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+}
+h1 span{
+font-weight: bold;
+
+
+}
+
+ 
+body p,a {font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+color: #828282
+
+
+}
+strong{
+  color: #3F3D56
+}
+span{color: #EE24FF;
+
+}
+#foto{
+  margin-top: 64px;
+  
+}
+
+#ondas{
+  width: 100%;
+  margin-bottom: 0xp;
+
+
+}
+ a{
+color: #3F3D56;
+
+ }
+
+ a+a{margin-left: 41px;
+
+
+
+ }
+
